@@ -6,3 +6,4 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/volodia-el-azimani-4
 
 Projects:
 1. Data Visualization - Speed Dating Project
+![Spider Chart.png](/Images/)
