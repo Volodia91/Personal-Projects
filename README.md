@@ -5,7 +5,8 @@ This is the repository of the projects I worked or currently working on. It is u
 Please contact me on [Linkedin](https://www.linkedin.com/in/volodia-el-azimani-459b99142) if you are looking to hire a data scientist.
 
 Projects:
-1. Data Visualization - Speed Dating Project
+
+## 1.   Data Visualization - Speed Dating Project
 
 In this projects, we use the data from a Speed Dating Challenge.
 This project summerize my Data Visualization skills with seaborn and matplotlib.
