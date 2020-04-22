@@ -20,8 +20,9 @@ It summerize my Data Visualization skills with seaborn and matplotlib.
 
 This project is about the analyze of converted people on a online shopping website.
 
-*   Influence of some parameters on a match
-*   Difference between Male and Female thinkings
+*   Influence of some parameters on convertion (payment)
+*   Predict converted client
+*   Improve the number of converted people
 
 ## 3.   Uber Driver Project
 
@@ -30,7 +31,7 @@ The goal of this project was to be able to generate a map of the most interestin
 For this, I used the clustering method of K-means and DBSCAN.
 
 *   Influence of Bases (Drivers company working for Uber) in NYC.
-*   Data cleaning and selection.
+*   Map Visualization, Data cleaning and selection.
 *   K-Means clustering
 *   DBScan clustering 
 
