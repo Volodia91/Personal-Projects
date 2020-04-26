@@ -37,4 +37,4 @@ For this, I used the clustering method of K-means and DBSCAN.
 
 ![Uber1.png](Images/Uber1.png)
 
-![Uber2.png](Images/Uber2.png)   ![Uber3.png](Images/Uber3.png)
+![Uber2.png](Images/Uber2.png)
