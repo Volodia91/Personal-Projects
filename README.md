@@ -38,3 +38,26 @@ For this, I used the clustering method of K-means and DBSCAN.
 ![Uber1.png](Images/Uber1.png)
 
 ![Uber4.png](Images/Uber4.png)
+
+## 4.   Fraud Analysis
+
+The objective is to predict some fraudulents purchases on a website with the informations about the purchased time, the IP adress, the browser or the age of the client...
+I used some classifier with and without resampling.
+
+*   Bernouilli and Logistic regression Classifier
+*   Random Forest Classifier
+
+Boosting:
+*   AdaBoost Classifier
+*   GrandientBoosting Classifier
+*   XGBoost Classifier
+
+## 5.   Generative Rap Lyrics - Natural Langage Processing
+
+The goal of this project was to be able to generate some rap lyrics. We used some lyrics scrapped on Genius.com to fit our differents models. The study was made only for french rap (the French is not efficient for NLP methods).
+
+*   Lyrics Scrapping on Genius.com
+*   Text Preprocessing (punctuation, delete word/sentences repetitions,...)
+*   NLTK library for N-Grams
+*   Tensorflow Keras with the utilisation of LSTM recurrent neuronal network
+*   Best Sentences selection by the vectorization of the phoneme in each sentences
